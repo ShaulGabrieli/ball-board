@@ -1,0 +1,45 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+.cell {
+    width: 40px;
+    height: 40px;
+    text-align: center;
+}
+
+.cell img {
+    width: 25px;
+    height: auto;
+}
+
+.floor {
+    background-color: gray;
+}
+
+.wall {
+    background-color: brown;
+}
+
+.after-wall{
+    background-color: black;
+}
+table{
+    margin: 50px auto;
+}
+
+.ball-counter {
+    font-size: 30px;
+}
+
+
+.play-again {
+    display: none;
+}
+
+.play-button{
+    width: 60px;
+    height: 40px;
+}
